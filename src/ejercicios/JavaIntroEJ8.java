@@ -4,9 +4,13 @@ import java.util.Scanner;
 
 public class JavaIntroEJ8 {
 
-    /* Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”.
-       Por ejemplo, si el cuadrado tiene 4 elementos por lado se deberá dibujar
-       lo siguiente:*/
+// Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”.
+// Por ejemplo, si el cuadrado tiene 4 elementos por lado se deberá dibujar
+// lo siguiente:
+//       * * * *
+//       *     *
+//       *     *
+//       * * * * 
 
     public static void main(String[] args) {
         int num;

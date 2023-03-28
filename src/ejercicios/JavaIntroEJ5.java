@@ -18,7 +18,7 @@ public class JavaIntroEJ5 {
         while (numeroLimite > cont) {
             System.out.println("ingrese un numero:");
             num = sc.nextInt();
-            cont = cont + num;
+            cont += num; //cont = cont + num;
         }
         System.out.println("cont:" + cont);
     }

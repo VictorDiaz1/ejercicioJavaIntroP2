@@ -3,7 +3,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ4 {
+public class JavaIntroEJ4P2 {
 // Escriba un programa que pida una frase o palabra y valide si la primera
 // letra de esa frase es una ‘A’. Si la primera letra es una ‘A’, se debera de
 // imprimir un mensaje por pantalla que diga “CORRECTO”, en caso

@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ3 {
+public class JavaIntroEJ3P2 {
 
 //  Realizar un programa que solo permita introducir solo frases o palabras
 //  de 8 de largo. Si el usuario ingresa una frase o palabra de 8 de largo se

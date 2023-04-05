@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ2 {
+public class JavaIntroEJ2P2 {
 
     //Crear un programa que pida una frase y si esa frase
     //es igual a “eureka” el programa pondrá un mensaje de Correcto,

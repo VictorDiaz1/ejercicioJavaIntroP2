@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ7 {
+public class JavaIntroEJ7P2 {
 
 // Realizar un programa que simule el funcionamiento de un dispositivo
 // RS232, este tipo de dispositivo lee cadenas enviadas por el usuario. Las

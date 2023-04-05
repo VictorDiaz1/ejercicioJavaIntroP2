@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ8 {
+public class JavaIntroEJ8P2 {
 
 // Dibujar un cuadrado de N elementos por lado utilizando el carácter “*”.
 // Por ejemplo, si el cuadrado tiene 4 elementos por lado se deberá dibujar

@@ -2,7 +2,7 @@ package ejercicios;
 
 import java.util.Scanner;
 
-public class JavaIntroEJ6 {
+public class JavaIntroEJ6P2 {
 
 // Realizar un programa que pida dos números enteros positivos por
 // teclado y muestre por pantalla el siguiente menú:El usuario deberá elegir

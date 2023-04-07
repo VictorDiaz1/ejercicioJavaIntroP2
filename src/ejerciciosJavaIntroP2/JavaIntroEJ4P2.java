@@ -1,5 +1,5 @@
 
-package ejercicios;
+package ejerciciosJavaIntroP2;
 
 import java.util.Scanner;
 

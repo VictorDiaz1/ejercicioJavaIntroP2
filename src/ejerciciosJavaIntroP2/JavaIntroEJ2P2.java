@@ -13,9 +13,9 @@ public class JavaIntroEJ2P2 {
         System.out.println("Ingrese una frase:");
         Scanner sc = new Scanner(System.in);
         String frase = sc.nextLine();
+        
         if (frase.equalsIgnoreCase("eureka")) {
             System.out.println("Correcto.");
-
         } else {
             System.out.println("Incorrecto.");
         }

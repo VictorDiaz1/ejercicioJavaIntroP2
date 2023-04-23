@@ -19,7 +19,6 @@ public class JavaIntroEJ3P2 {
             System.out.println("Correcto");
         } else {
             System.out.println("Incorrecto");
-        }
-        
+        }        
     }
 }

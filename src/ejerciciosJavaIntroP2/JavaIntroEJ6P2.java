@@ -48,6 +48,8 @@ public class JavaIntroEJ6P2 {
                 
                 menu = sc.next();          
         }                
-        }while(!"s".equals(menu)&&!"S".equals(menu));
+        }while
+                //(!"S".equals(menu)&& !"s".equals(menu));  
+                  (!"s".equalsIgnoreCase(menu));
     }
 }
